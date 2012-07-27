@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 
 var redis = require('redis'),
     client = redis.createClient("6379", "");

@@ -1,4 +1,4 @@
-#!/opt/OMNIperl/bin/perl
+#!/usr/bin/env perl
 
 $| = 1;
 
